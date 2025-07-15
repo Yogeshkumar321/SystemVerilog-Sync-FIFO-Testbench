@@ -184,7 +184,7 @@ The following signals are defined in `fifo_if.sv`, aligned with the waveform:
 
 - [✔️ GitHub Repository](https://github.com/your-username/fpga-fifo-verification) *(Update with your repo link)*
 - Add waveform screenshot as `/screenshots/fifo_waveform.png`
-- Submit the GitHub repo link via the internship form
+
 
 ---
 
